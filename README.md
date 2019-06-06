@@ -1,6 +1,10 @@
 <a href="url"><img src="/media/WordPress-logotype-wmark.png" align="right" height="48" width="48" ></a>
 <a href="url"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" align="right" height="48" width="48" ></a>
 <br>
+<br>
+
+![Alt Text](/media/websitevalidation.gif)
+
 # Deployment Playbook
 
 ## Provision Storage
