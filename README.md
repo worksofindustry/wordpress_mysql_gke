@@ -1,4 +1,4 @@
-<a href="url"><img src="WordPress-logotype-wmark.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="WordPress-logotype-wmark.png" align="right" height="48" width="48" ></a>
 <br>
 # Deployment Playbook
 
