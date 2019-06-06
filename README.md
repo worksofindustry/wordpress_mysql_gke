@@ -1,4 +1,5 @@
-![GitHub Logo](WordPress-logotype-wmark.png | width=100)
+<a href="url"><img src="WordPress-logotype-wmark.png" align="left" height="48" width="48" ></a>
+<br>
 # Deployment Playbook
 
 ## Provision Storage
