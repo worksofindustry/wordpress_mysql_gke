@@ -1,4 +1,4 @@
-![GitHub Logo](WordPress-logotype-wmark.png)
+![GitHub Logo](WordPress-logotype-wmark.png =250x250)
 # Deployment Playbook
 
 ## Provision Storage
